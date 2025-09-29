@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a8a3cc6-9c09-48e9-b400-dbf656662d70" name="Changes" comment="Create tool for crewai">
-      <changelist_data name="pavanmanuguri" email="" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CrewAi-Tools.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oapi_call/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oapi_call/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oapi_call/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oapi_call/src/oapi_call/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oapi_call/src/oapi_call/tool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,27 +19,39 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pavanmanuguri&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pavanmanuguri/crewai-tool-api&quot;,
+    &quot;accountId&quot;: &quot;ad49796c-b651-4044-8d2a-8124816e894c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="33McKC2PsfsGVeqDPn8EbsysOC5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.tool.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.tool.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CrewAi-Tools" />
@@ -95,22 +96,25 @@
       <option name="presentableId" value="Default" />
       <updated>1759130315157</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create tool for crewai">
+      <option name="closed" value="true" />
+      <created>1759131406503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759131406503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="8fb0f5cc-ea63-416b-8b66-1ce016984346" value="TOOL_WINDOW" />
-        <entry key="5da6e616-077b-4259-a183-b05e65fc1375" value="EDITOR" />
       </map>
     </option>
     <option name="TAB_STATES">
       <map>
-        <entry key="5da6e616-077b-4259-a183-b05e65fc1375">
-          <value>
-            <State />
-          </value>
-        </entry>
         <entry key="8fb0f5cc-ea63-416b-8b66-1ce016984346">
           <value>
             <State />
