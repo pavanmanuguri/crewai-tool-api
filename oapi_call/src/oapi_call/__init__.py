@@ -1,3 +1,3 @@
-from .tool import OapiCall
+from .tool import get_purchase_requisition
 
-__all__ = ["OapiCall"]
+__all__ = ["get_purchase_requisition"]
