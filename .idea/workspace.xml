@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5a8a3cc6-9c09-48e9-b400-dbf656662d70" name="Changes" comment="Create tool for crewai">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oapi_call/src/oapi_call/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/oapi_call/src/oapi_call/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759132347374</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create tool for crewai">
+      <option name="closed" value="true" />
+      <created>1759488293460</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759488293460</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
